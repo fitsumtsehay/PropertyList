@@ -1,2 +1,2 @@
-# PropertyList
-# Spring Boot CRUD Operations with entitiy property list and MySQL database
+## PropertyList
+## Spring Boot CRUD Operations with entitiy property list and MySQL database
